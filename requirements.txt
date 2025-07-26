@@ -1,0 +1,7 @@
+torch
+torchvision
+transformers>=4.30
+datasets
+kagglehub
+matplotlib
+Pillow
