@@ -34,7 +34,7 @@ ViT_Pretrained_for_cls/
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/ViT_Pretrained_for_cls.git
+    git clone https://github.com/NguyenTienAnh8365/ViT_Pretrained_for_cls.git
     cd ViT_Pretrained_for_cls
     ```
 
