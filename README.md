@@ -119,8 +119,3 @@ After training, the notebook will output accuracy metrics and allow you to visua
 - [Nguyen Tien Anh]
 - [anhnguyentien8365@gmail.com]
 
----
-
-## 📝 License
-
-This project is for educational and research purposes. Please check dataset and model licenses before commercial use.
